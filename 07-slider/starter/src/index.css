@@ -369,3 +369,12 @@ ul {
 .slick-next::before {
   color: var(--primary-500) !important;
 }
+
+/* =======SLICK CAROUSEL =========== */
+
+.slick-container {
+  margin: 0 auto;
+  margin-top: 10rem;
+  width: 80vw;
+  max-width: 800px;
+}
