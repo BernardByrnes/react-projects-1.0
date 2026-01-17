@@ -1,9 +1,9 @@
 import Title from "../components/Title";
 
 const RandomizeColor = () => {
-  // function handleClick(e) {
-  //   console.log("click");
-  // }
+  function handleClick2(e) {
+    console.log("click");
+  }
   const handleClick = (e) => {
     console.log("click");
     console.log(getRandomColor());
